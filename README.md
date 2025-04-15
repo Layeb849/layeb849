@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://i.ibb.co/vdnKw1n/dev-banner.gif" alt="banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there, I'm Layeb 👋</h1>
 
 <p align="center">
@@ -25,15 +30,16 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Layeb849&show_icons=true&theme=radical" alt="Layeb849's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Layeb849&show_icons=true&theme=radical" />
 </p>
 
 <p align="left">
@@ -42,10 +48,17 @@
 
 ---
 
+### 🧠 Inspirational Quote
+
+> 🧾 *"Code is like humor. When you have to explain it, it’s bad."*  
+> — Cory House
+
+---
+
 ### 🔗 Connect With Me
 
 <p>
-  <a href="mailto:layebhossain849@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:layebhossain849.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/layeb-hossain-b10583360"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio.taptaptyping.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
