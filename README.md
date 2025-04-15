@@ -9,8 +9,8 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on Django web apps
-- 🌱 Learning REST APIs and full-stack web development
+- 🔭 Currently working on Django-based web applications
+- 🌱 Learning REST APIs & Full-stack development
 - 💬 Ask me about Python, Django, Bootstrap, and JavaScript
 - 📫 Reach me at: **portfolio.taptaptyping.com**
 - ⚡ Fun fact: I love black coffee during late-night coding sessions ☕💻
@@ -46,10 +46,10 @@
 
 <p>
   <a href="mailto:layeb849@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/layeb-hossain-b10583360/in/layeb849"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/layeb-hossain-b10583360"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio.taptaptyping.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">Thank you for visiting my profile! 💖</p>
+<p align="center">Thanks for visiting my profile! Keep coding and stay awesome 🚀</p>
