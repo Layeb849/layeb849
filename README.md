@@ -39,15 +39,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🛒 **BiteBasket** | A food e-commerce site with cart, orders, and checkout system | Django, Bootstrap, MySQL |
-| 🧠 **AI-Based Learning Platform** | Multilingual learning bot for smarter education | Django, Bootstrap, OpenAI |
-| 📸 **Gallery App** | Upload, manage, and filter albums and photos dynamically | Django, HTML, CSS |
-| 🎙️ **Voice Command App** | Voice-triggered auto-calling system (PWA-ready) | Django, JavaScript, Web Speech API |
-
 ---
 
 ### 📊 GitHub Stats
@@ -70,6 +61,41 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<div align="center">
+
+💡 **[BiteBasket](https://github.com/Layeb849/BiteBasket)**  
+A full-featured food e-commerce website built with Django.  
+<sub>🛒 Cart • 📦 Orders • 🍔 Food Items</sub>  
+<img src="https://img.shields.io/badge/Django-3.2-success?style=flat-square"/> <img src="https://img.shields.io/badge/MySQL-Database-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Bootstrap-Styling-purple?style=flat-square"/>
+
+---
+
+🤖 **[AI-Based Learning Platform](https://github.com/Layeb849/AI-Learning-Platform)**  
+An AI-powered multilingual education system with modern UI.  
+<sub>🌐 Multi-language • 🧠 AI Chat • 📚 Course System</sub>  
+<img src="https://img.shields.io/badge/Django-Backend-green?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-API-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Bootstrap-Frontend-purple?style=flat-square"/>
+
+---
+
+📸 **[Gallery App](https://github.com/Layeb849/Gallery-App)**  
+Upload & manage unlimited albums and filter photos easily.  
+<sub>🖼️ Dynamic Albums • 📁 Photo Upload • 🔍 Filtering</sub>  
+<img src="https://img.shields.io/badge/Django-Framework-success?style=flat-square"/> <img src="https://img.shields.io/badge/HTML-CSS-lightgrey?style=flat-square"/>
+
+---
+
+🎙️ **[Voice Command App](https://github.com/Layeb849/Voice-Command-App)**  
+Voice-controlled calling system with PWA support.  
+<sub>🎤 Voice Input • 📞 Auto Call • 📱 PWA Android Support</sub>  
+<img src="https://img.shields.io/badge/Django-blue?style=flat-square"/> <img src="https://img.shields.io/badge/JavaScript-Client-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/WebView-Android-green?style=flat-square"/>
+
+</div>
+
+
+---
+
 ### 🧰 My Development Philosophy
 
 > ✅ Simple code is better than clever code  
@@ -84,6 +110,13 @@
 > _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
 
 ---
+
+### 🧰 Developer Profiles
+
+<a href="https://codedx.io/users/your-username">
+  <img src="https://img.shields.io/badge/Codedx.io-View_Profile-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codedx Profile"/>
+</a>
+
 
 ### 🔗 Connect With Me
 
